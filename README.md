@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Sbusiso! <br/><a href="https://github.com/joshmadakor1">Java/Android Developer</a>
+
+<h2>👨‍💻 Java Development Projects:</h2>
+
+- <b>Java Core Method Practice (Eclipse)</b>
+  - [Marks Recording System]()
+    
+- <b>Java Game (Java Game In Eclipse Using Java Core Methods)</b>
+  - [Java Guessing Game]() 
+  
+- <b>Android Application(Android Studios)</b>
+  - [Lucky Box(Game)]()
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**SbusisoC/SbusisoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
