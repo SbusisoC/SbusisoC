@@ -3,10 +3,10 @@
 <h2>👨‍💻 Java Development Projects:</h2>
 
 - <b>Java Core Method Practice (Eclipse)</b>
-  - [Marks Recording System]()
+  - [Marks Recording System](https://github.com/SbusisoC/Marks-Recording-System)
     
 - <b>Java Game (Java Game In Eclipse Using Java Core Methods)</b>
-  - [Java Guessing Game]() 
+  - [Java Guessing Game](https://github.com/SbusisoC/Java-Game-) 
   
 - <b>Android Application(Android Studios)</b>
   - [Lucky Box(Game)]()
