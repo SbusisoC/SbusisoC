@@ -20,6 +20,9 @@
   - [Fitness App(Database manager)](https://github.com/SbusisoC/Fitness-App-Android-Best-You/commit/c8c1e4a4fc6f7a02c4ca544e5b315ddd707349e2#diff-9eb3fa37a28b8e31690a40438d4467c19dfd449e909ca73d2e51ad1cfb5273ff)
   - [Fitness App(Activity)](https://github.com/SbusisoC/Fitness-Android-App/blob/main/java/com/example/app4/ui/workouts/chestWorkouts.java)
   - [Fitness App(XML Layout)](https://github.com/SbusisoC/Fitness-Android-App/blob/main/res/layout/activity_chest_workouts.xml)
+ 
+- <b>Authentication Login With Firebase Practice</b>
+  - [logging Into Your Application Profile(Firebase)](https://github.com/SbusisoC/Logging-in-with-Firebase)
     
 <h2>📜 Certification:</h2>
 
@@ -27,4 +30,4 @@
   - [Certificate](https://alison.com/shop)
 
 - <b>Building Web Application With Spring Boot (Alison)</b>
-  - [Diploma Certification](https://alison.com/shop)   
+  - [Diploma Certification](https://alison.com/shop)
