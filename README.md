@@ -27,7 +27,7 @@
   - [logging Into Your Application Profile(Firebase)](https://github.com/SbusisoC/Logging-in-with-Firebase)
 
 - <b>API Practice</b>
- - [Making Card Payment In Application(Stripe API & Postman)](https://github.com/SbusisoC/Android-Payment-Gateway-/tree/master)
+  - [Making Card Payment In Application(Stripe API & Postman)](https://github.com/SbusisoC/Android-Payment-Gateway-/tree/master)
     
 <h2>📜 Certification:</h2>
 
