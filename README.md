@@ -15,6 +15,8 @@
   - [Lucky Box(Code)](https://github.com/SbusisoC/Android-Game-Application) 
   - [Lucky Box(Application)](https://apkfab.com/lucky-box/com.example.game/apk?h=690fbbd519cff48928d3371ba8a0b51574bd2e0e779b2b80f0f4d14ae15bd701)
   - [Fitness App(Code)](https://github.com/SbusisoC/Fitness-App-Android-Best-You)
+  - [Payment Gateway(Code)](https://github.com/SbusisoC/Android-Payment-Gateway-/tree/master)
+    
 
 - <b>SQL, loading and retrieving data(Android Studios & SQLite)</b>
   - [Fitness App(Database manager)](https://github.com/SbusisoC/Fitness-App-Android-Best-You/commit/c8c1e4a4fc6f7a02c4ca544e5b315ddd707349e2#diff-9eb3fa37a28b8e31690a40438d4467c19dfd449e909ca73d2e51ad1cfb5273ff)
@@ -23,6 +25,9 @@
  
 - <b>Authentication Login With Firebase Practice</b>
   - [logging Into Your Application Profile(Firebase)](https://github.com/SbusisoC/Logging-in-with-Firebase)
+
+- <b>API Practice</b>
+ - [Making Card Payment In Application(Stripe API & Postman)](https://github.com/SbusisoC/Android-Payment-Gateway-/tree/master)
     
 <h2>📜 Certification:</h2>
 
